@@ -58,9 +58,8 @@ This project allows users to generate high-quality images from text prompts usin
 
 ## 📷 Example
 
-| Prompt | Output |
-|--------|--------|
-| *a castle on a mountain during sunset* | ![Example Image](images/example_image.png) |
+![example](https://github.com/SparshKhandelwal103/Text-to-Image-Generator/blob/main/image_mercedes_car.png)
+![example](https://github.com/SparshKhandelwal103/Text-to-Image-Generator/blob/main/image_batman_vs_superman.png)
 
 ---
 
